@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted MCP gateway and control plane: aggregates upstream MCP servers behind one authenticated, audited, allow-listed surface, exposes each OpenAPI 3 operation as an MCP tool, and runs a credential-free local mode so a stranger can verify the tool roster without a provider key.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
